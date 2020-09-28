@@ -6,6 +6,13 @@
 3. CSS opacity
 4. CSS Position (absolute, relative, fixed, sticky)
 ```
+
+```
+ZADT30401
+Przygotuj stronę na podstawie załączonego mockupu używając znaczników semantycznych. 
+Wysokość sekcji 100% viewportu. Powrót na górę (trójkąt) wykonać przy pomocy CSS.
+```
+
 https://www.w3schools.com/css/css_intro.asp
 
 https://miroslawzelent.pl/kurs-css/
