@@ -4,7 +4,7 @@
 1. HTML5 ( znaczniki semantyczne )
 2. CSS display ( inline, block, inline-block, none )
 3. CSS opacity
-4. CSS Position
+4. CSS Position (absolute, relative, fixed, sticky)
 ```
 https://www.w3schools.com/css/css_intro.asp
 
