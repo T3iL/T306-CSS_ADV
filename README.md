@@ -9,7 +9,7 @@
 
 ```
 ZADT30401
-Przygotuj stronę na podstawie załączonego mockupu używając znaczników semantycznych. 
+Przygotuj stronę na podstawie załączonego mockupu (Semantic.jpg, Semantic_mobile.jpg) używając znaczników semantycznych. 
 Wysokość sekcji 100% viewportu. Powrót na górę (trójkąt) wykonać przy pomocy CSS.
 ```
 
