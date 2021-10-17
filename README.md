@@ -13,6 +13,9 @@
 ZADT30401
 Przygotuj stronę na podstawie załączonego mockupu (Semantic.jpg, Semantic_mobile.jpg) używając znaczników semantycznych. 
 Wysokość sekcji 100% viewportu. Powrót na górę (trójkąt) wykonać przy pomocy CSS.
+
+ZADT30502
+Wycentrować dowolny element na stronie w pionie i w poziomie (wymagana znajomość co najmniej dwóch sposobów). Stwórz dwie strony.
 ```
 
 https://www.w3schools.com/css/css_intro.asp
