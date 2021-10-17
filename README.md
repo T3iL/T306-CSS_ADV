@@ -5,6 +5,8 @@
 2. CSS display ( inline, block, inline-block, none )
 3. CSS opacity
 4. CSS Position (absolute, relative, fixed, sticky)
+5. Z-Index
+6. CSS Transform
 ```
 
 ```
