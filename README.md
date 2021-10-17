@@ -23,11 +23,8 @@ Wyświetl trzy różne karty do gry na środku strony (w pionie i w poziomie) zb
 
 ![CARDS](card.JPG)
 
-https://www.w3schools.com/css/css_intro.asp
+https://dev.to/kiranrajvjd/the-ultimate-css-background-pattern-resource-20m8
 
-https://miroslawzelent.pl/kurs-css/
-
-https://htmlcheatsheet.com/css/
 ### --------Links
 https://github.com/T3iL/T303-CSS
 
