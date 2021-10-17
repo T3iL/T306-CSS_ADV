@@ -21,6 +21,8 @@ ZADT30503
 Wyświetl trzy różne karty do gry na środku strony (w pionie i w poziomie) zbudowane z dwóch elementów (front i back).
 ```
 
+![CARDS](card.JPG)
+
 https://www.w3schools.com/css/css_intro.asp
 
 https://miroslawzelent.pl/kurs-css/
