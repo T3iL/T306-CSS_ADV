@@ -1,4 +1,4 @@
-# T306-CSS_ADV (2020.09.21)
+# T306-CSS_ADV
 ## -------INFO
 ```
 1. HTML5 ( znaczniki semantyczne )
