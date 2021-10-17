@@ -16,6 +16,9 @@ Wysokość sekcji 100% viewportu. Powrót na górę (trójkąt) wykonać przy po
 
 ZADT30502
 Wycentrować dowolny element na stronie w pionie i w poziomie (wymagana znajomość co najmniej dwóch sposobów). Stwórz dwie strony.
+
+ZADT30503
+Wyświetl trzy różne karty do gry na środku strony (w pionie i w poziomie) zbudowane z dwóch elementów (front i back).
 ```
 
 https://www.w3schools.com/css/css_intro.asp
