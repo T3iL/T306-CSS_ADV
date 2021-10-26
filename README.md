@@ -18,7 +18,7 @@ ZADT30502
 Wycentrować dowolny element na stronie w pionie i w poziomie (wymagana znajomość co najmniej dwóch sposobów). Stwórz dwie strony.
 
 ZADT30503
-Wyświetl trzy różne karty do gry na środku strony (w pionie i w poziomie) zbudowane z dwóch elementów (front i back).
+Wyświetl trzy różne karty do gry na środku strony (w pionie i w poziomie) zbudowane z dwóch elementów (front i back). Symbole wpisać w kod html.
 ```
 
 ![CARDS](card.JPG)
