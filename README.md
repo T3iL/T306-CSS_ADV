@@ -21,6 +21,8 @@ ZADT30503
 Wyświetl trzy różne karty do gry na środku strony (w pionie i w poziomie) zbudowane z dwóch elementów (front i back). Symbole wpisać w kod html.
 ```
 
+![Cards](cards.webp)
+
 ![CARDS](card.JPG)
 
 https://dev.to/kiranrajvjd/the-ultimate-css-background-pattern-resource-20m8
