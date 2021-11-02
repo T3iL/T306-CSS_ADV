@@ -23,8 +23,6 @@ Wyświetl trzy różne karty do gry na środku strony (w pionie i w poziomie) zb
 
 ![Cards](cards.webp)
 
-![CARDS](card.JPG)
-
 https://dev.to/kiranrajvjd/the-ultimate-css-background-pattern-resource-20m8
 
 ### --------Links
