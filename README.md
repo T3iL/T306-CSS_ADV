@@ -19,6 +19,9 @@ Wycentrować dowolny element na stronie w pionie i w poziomie (wymagana znajomo�
 
 ZADT30503
 Wyświetl trzy różne karty do gry na środku strony (w pionie i w poziomie) zbudowane z dwóch elementów (front i back). Symbole wpisać w kod html.
+
+ZADT30504
+Ustaw cztery różne kartry tak aby na siebie nachodziły i mozliwe było ich ustawienie jak na poniższej ilustracji. Zadanie dodatkowe: zastosuj efekt rozkładania kart po najechaniu kursorem (hover).
 ```
 
 ![Cards](cards.webp)
