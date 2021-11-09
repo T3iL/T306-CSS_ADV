@@ -22,6 +22,9 @@ Wyświetl trzy różne karty do gry na środku strony (w pionie i w poziomie) zb
 
 ZADT30504
 Ustaw cztery różne kartry tak aby na siebie nachodziły i mozliwe było ich ustawienie jak na poniższej ilustracji. Zadanie dodatkowe: zastosuj efekt rozkładania kart po najechaniu kursorem (hover). Dwa stany: karty złożone i karty rozłożone.
+
+ZADT30505
+Przygotuj skrypt pozwqalający na przeniesienie na górę stosu klikniętej karty.
 ```
 
 ![Cards](cards.webp)
