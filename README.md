@@ -32,7 +32,7 @@
             height:10em;
         }
         .corner{
-            padding:5px;
+            padding:.5em;
             position:absolute;
         }
         .cornerT{
@@ -59,15 +59,15 @@
     <div id="container">
         <div class="card">
             <div class="front">
-                <div class="corner cornerT">
+                <div class="corner cornerT"> <!-- gorny naroznik -->
                     <div>2</div>
                     <div>&spades;</div>
                 </div>
-                <div class="center">
-                    <div class="half">&spades;</div>
-                    <div class="half bottom flip">&spades;</div>
+                <div class="center"> <!-- srodek -->
+                    <div class="half">&spades;</div> <!-- gorna polowka -->
+                    <div class="half bottom flip">&spades;</div> <!-- dolna polowka -->
                 </div>
-                <div class="corner cornerB flip">
+                <div class="corner cornerB flip"> <!-- dolny naroznik -->
                     <div>2</div>
                     <div>&spades;</div>
                 </div>
