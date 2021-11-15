@@ -1,13 +1,83 @@
 # T306-CSS_ADV
 ## -------INFO
-```
+
 1. HTML5 ( znaczniki semantyczne )
 2. CSS display ( inline, block, inline-block, none )
 3. CSS opacity
 4. CSS Position (absolute, relative, fixed, sticky)
 5. Z-Index
 6. CSS Transform
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Card</title>
+    <style>
+        #container{
+            position:absolute;
+            top:50%;
+            left:50%;
+            transform:translate(-50%,-50%);
+        }
+        .card{
+            position:relative;
+            border-radius:10px;
+            background:white;
+            box-shadow: 3px 3px 10px #0005;
+            width:7em;
+            height:10em;
+        }
+        .corner{
+            padding:5px;
+            position:absolute;
+        }
+        .cornerT{
+            top:0;
+            left:0;
+        }
+        .cornerB{
+            bottom:0;
+            right:0;
+        }
+        .flip{
+            transform:rotate(180deg);
+        }
+        .center{
+            font-size:3em;
+            position:absolute;
+            top:50%;
+            left:50%;
+            transform:translate(-50%,-50%)
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <div class="card">
+            <div class="front">
+                <div class="corner cornerT">
+                    <div>2</div>
+                    <div>&spades;</div>
+                </div>
+                <div class="center">
+                    <div class="half">&spades;</div>
+                    <div class="half bottom flip">&spades;</div>
+                </div>
+                <div class="corner cornerB flip">
+                    <div>2</div>
+                    <div>&spades;</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
 ```
+
 
 ```
 ZADT30401
