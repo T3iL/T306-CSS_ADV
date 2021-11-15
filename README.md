@@ -88,7 +88,7 @@ ZADT30502
 Wycentrować dowolny element na stronie w pionie i w poziomie (wymagana znajomość co najmniej dwóch sposobów). Stwórz dwie strony.
 
 ZADT30503
-Wyświetl trzy różne karty do gry na środku strony (w pionie i w poziomie) zbudowane z dwóch elementów (front i back). Kolory/Symbole wpisać w kod html (nie grafiki).
+Wyświetl trzy różne karty do gry na środku strony (w pionie i w poziomie) zbudowane z dwóch elementów (front i back). Kolory/Symbole wpisać w kod html (nie pliki graficzne).
 skala ocen (ponizej podano wymagane karty aby zdobyc ocene): 
 mn - A,2
 dst - A,2,3
