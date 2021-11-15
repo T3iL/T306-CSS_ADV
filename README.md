@@ -19,6 +19,12 @@ Wycentrować dowolny element na stronie w pionie i w poziomie (wymagana znajomo�
 
 ZADT30503
 Wyświetl trzy różne karty do gry na środku strony (w pionie i w poziomie) zbudowane z dwóch elementów (front i back). Symbole wpisać w kod html.
+skala ocen (karty): 
+mn - A,2
+dst - A,2,3
+db - 3,4,5
+bdb - 5,6,7
+cel - 5,6,7,8,9,10 (wraz z odwrócona polowa)
 
 ZADT30504
 Ustaw cztery różne kartry tak aby na siebie nachodziły i mozliwe było ich ustawienie jak na poniższej ilustracji. Zadanie dodatkowe: zastosuj efekt rozkładania kart po najechaniu kursorem (hover). Dwa stany: karty złożone i karty rozłożone.
