@@ -89,7 +89,7 @@ Wycentrować dowolny element na stronie w pionie i w poziomie (wymagana znajomo�
 
 ZADT30503
 Wyświetl trzy różne karty do gry na środku strony (w pionie i w poziomie) zbudowane z dwóch elementów (front i back). Symbole wpisać w kod html.
-skala ocen (karty): 
+skala ocen (ponizej podano wymagane karty aby zdobyc ocene): 
 mn - A,2
 dst - A,2,3
 db - 3,4,5
